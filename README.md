@@ -13,9 +13,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Libraries and Frameworks**
 
-<img title="SpringBoot" alt="SpringBoot" width="70px" src="Media/Springboot.png">|<img title="Spring Security" alt="SpringSecurity" width="70px" src="Media/SpringSecurity.png">|<img title="Java Executors" alt="Java Executors" width="70px" src="Media/Executors.jpg">|<img title="Docker" alt="Docker" width="70px" src="Media/docker.png">
-
-<img title="Flask" alt="Flask" width="70px" src="Media/Flask.png">|<img title="Python Dash" alt="Python Dash" width="70px" src="Media/Dash.png">|<img title="Hibernate" alt="Hibernate" width="70px" src="Media/Hibernate.png">|<img title="SLF4J" alt="SLF4J" width="70px" src="Media/slf4j.png">|<img title="Angular" alt="Angular" width="70px" src="Media/Angular.png">|<img title="SJR 352 Spring Batch" alt="SJR 352 Spring Batch" width="70px" src="Media/Spring Batch.jpg">|<img title="OAuth" alt="OAuth" width="70px" src="Media/OAuth2.0.png">
+<img title="SpringBoot" alt="SpringBoot" width="70px" src="Media/Springboot.png">|<img title="Spring Security" alt="SpringSecurity" width="70px" src="Media/SpringSecurity.png">|<img title="Java Executors" alt="Java Executors" width="70px" src="Media/Executors.jpg">|<img title="Docker" alt="Docker" width="70px" src="Media/docker.png">|<img title="Flask" alt="Flask" width="70px" src="Media/Flask.png">|<img title="Python Dash" alt="Python Dash" width="70px" src="Media/Dash.png">|<img title="Hibernate" alt="Hibernate" width="70px" src="Media/Hibernate.png">|<img title="SLF4J" alt="SLF4J" width="70px" src="Media/slf4j.png">|<img title="Angular" alt="Angular" width="70px" src="Media/Angular.png">|<img title="SJR 352 Spring Batch" alt="SJR 352 Spring Batch" width="70px" src="Media/Spring Batch.jpg">|<img title="OAuth" alt="OAuth" width="70px" src="Media/OAuth2.0.png">
 
 **Cloud**
 
