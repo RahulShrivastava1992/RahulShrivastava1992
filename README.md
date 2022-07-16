@@ -25,12 +25,13 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Databases**
 
-<img title="Oracle" alt="Oracle" width="70px" src="Media/Oracle.png">|<img title="MSSql Server" alt="MSSQL" width="70px" src="Media/mysql logo.png"> <br>|<img title="MySql" alt="MySql" width="70px" src="Media/MySql.png"> <br>
+<img title="Oracle" alt="Oracle" width="70px" src="Media/Oracle.png">|<img title="MSSql Server" alt="MSSQL" width="70px" src="Media/mysql logo.png">
+<img title="MySql" alt="MySql" width="70px" src="Media/MySql.png"> <br>
 
 
 **Server**
 
-<img title="Apache" alt="Apache" width="70px" src="Media/Apache.png">|<img title="IBM Websphere" alt="IBM Websphere" width="70px" src="Media/IBMWebspherejpg.jpg"> <br>|<img title="Gunicorn" alt="Gunicorn" width="70px" src="Media/guicorn.png"> <br>
+<img title="Apache" alt="Apache" width="70px" src="Media/Apache.png">|<img title="IBM Websphere" alt="IBM Websphere" width="70px" src="Media/IBMWebspherejpg.jpg">|<img title="Gunicorn" alt="Gunicorn" width="70px" src="Media/guicorn.png"> <br>
 
 
 **Tools**
