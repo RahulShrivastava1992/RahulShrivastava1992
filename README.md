@@ -29,24 +29,54 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Cloud**
 
-<img title="Amazon S3" alt="Amazon S3" width="70px" src="Media/AmazonS3.png">|<img title="Heroku" alt="Heroku" width="70px" src="Media/Heroku.png">|<img title="Spring Cloud" alt="SpringCloud" width="70px" src="Media/springCloud.png">|<img title="Pivotal Cloud Foundry" alt="PCF" width="70px" src="Media/pcf.png">|<img title="" alt="SpringCloud" width="70px" src="Media/springCloud.png">|<img title="Hystrix" alt="Hystrix" width="70px" src="Media/Hystrix.png">|<img title="Resilience4J" alt="Resilience4J" width="70px" src="Media/Resilience.png">
+<table style="border: 1px solid black;"> 
+<tr> 
+<td><img title="Amazon S3" alt="Amazon S3" width="70px" src="Media/AmazonS3.png"></td><img title="Heroku" alt="Heroku" width="70px" src="Media/Heroku.png"><td><img title="Spring Cloud" alt="SpringCloud" width="70px" src="Media/springCloud.png"></td><td><img title="Pivotal Cloud Foundry" alt="PCF" width="70px" src="Media/pcf.png"></td>
+<td> <img title="" alt="SpringCloud" width="70px" src="Media/springCloud.png"></td>
+<td> <img title="Hystrix" alt="Hystrix" width="70px" src="Media/Hystrix.png"></td>
+<td> <img title="Resilience4J" alt="Resilience4J" width="70px" src="Media/Resilience.png"></td>
+</tr> 
+</table>
 
 
 
 **Databases**
 
-<img title="Oracle" alt="Oracle" width="70px" src="Media/Oracle.png">|<img title="MSSql Server" alt="MSSQL" width="70px" src="Media/mysql logo.png">
-<img title="MySql" alt="MySql" width="70px" src="Media/MySql.png"> <br>
+<table style="border: 1px solid black;"> 
+<tr> 
+<td><img title="Oracle" alt="Oracle" width="70px" src="Media/Oracle.png"></td>
+<td> <img title="MSSql Server" alt="MSSQL" width="70px" src="Media/mysql logo.png"></td>
+<td> <img title="MySql" alt="MySql" width="70px" src="Media/MySql.png"></td>
+</tr> 
+</table>
+<br>
+
 
 
 **Server**
 
-<img title="Apache" alt="Apache" width="70px" src="Media/Apache.png">|<img title="IBM Websphere" alt="IBM Websphere" width="70px" src="Media/IBMWebspherejpg.jpg">|<img title="Gunicorn" alt="Gunicorn" width="70px" src="Media/guicorn.png"> <br>
+<table style="border: 1px solid black;"> 
+<tr> 
+<td><img title="Apache" alt="Apache" width="70px" src="Media/Apache.png"></td>
+<td><img title="IBM Websphere" alt="IBM Websphere" width="70px" src="Media/IBMWebspherejpg.jpg"></td>
+<td> <img title="Gunicorn" alt="Gunicorn" width="70px" src="Media/guicorn.png"></td>
+</tr> 
+</table>
+<br>
 
 
 **Tools**
 
-<img title="WinScp" alt="WinScp" width="70px" src="Media/winscp.jpg">|<img title="VS Code" alt="VS Code" width="70px" src="Media/vscode.png">|<img title="git" alt="git" width="70px" src="Media/git.png">|<img title="IntelliJ" alt="IntelliJ" width="70px" src="Media/IntelliJ.jpg">|<img title="Eclipse" alt="Eclipse" width="70px" src="Media/eclipse.png">
+<table style="border: 1px solid black;"> 
+<tr> 
+<td><img title="WinScp" alt="WinScp" width="70px" src="Media/winscp.jpg"></td>
+<td><img title="VS Code" alt="VS Code" width="70px" src="Media/vscode.png"></td>
+<td> <img title="git" alt="git" width="70px" src="Media/git.png"></td>
+<td> <img title="IntelliJ" alt="IntelliJ" width="70px" src="Media/IntelliJ.jpg"></td>
+<td> <img title="Eclipse" alt="Eclipse" width="70px" src="Media/eclipse.png"></td>
+</tr> 
+</table>
+<br>
 
 
 <br>
