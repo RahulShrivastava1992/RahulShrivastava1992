@@ -11,7 +11,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <table style="border: 1px solid black;"> 
 <tr> 
-<td><img title="Python" alt="Python" width="70px" src="Media/python.jpg" /></td><img alt="Java" title="Java" width="70px" src="Media/JavaLogo.png"><td><img title="Java Executors" alt="Java Executors" width="70px" src="Media/Executors.jpg"></td><td><img title="Shell Script" alt="shell script" width="70px" src="Media/shell.jpg">
+<td><img title="Python" alt="Python" width="70px" src="Media/python.jpg" /></td><td><img alt="Java" title="Java" width="70px" src="Media/JavaLogo.png"></td><td><img title="Java Executors" alt="Java Executors" width="70px" src="Media/Executors.jpg"></td><td><img title="Shell Script" alt="shell script" width="70px" src="Media/shell.jpg">
 </td>
 </tr> 
 </table>
