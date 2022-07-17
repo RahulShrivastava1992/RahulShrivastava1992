@@ -11,7 +11,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <table style="border: 1px solid black;"> 
 <tr> 
-<td><img title="Python" alt="Python" width="70px" src="Media/python.jpg" /></td><td><img alt="Java" title="Java" width="70px" src="Media/JavaLogo.png"></td><td><img title="Java Executors" alt="Java Executors" width="70px" src="Media/Executors.jpg"></td><td><img title="Shell Script" alt="shell script" width="70px" src="Media/shell.jpg">
+<td><img title="Python" alt="Python" width="70px" src="Media/python.jpg" /></td><td><img alt="Java" title="Java" width="70px" src="Media/JavaLogo.png"></td><td><img title="Shell Script" alt="shell script" width="70px" src="Media/shell.jpg">
 </td>
 </tr> 
 </table>
@@ -20,17 +20,17 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <table style="border: 1px solid black;"> 
 <tr> 
-<td><img title="SpringBoot" alt="SpringBoot" width="70px" src="Media/Springboot.png"></td><td><img title="Spring Security" alt="SpringSecurity" width="70px" src="Media/SpringSecurity.png"></td><td><img title="Java Executors" alt="Java Executors" width="70px" src="Media/Executors.jpg"></td><td><img title="Docker" alt="Docker" width="70px" src="Media/docker.png"></td><td><img title="Flask" alt="Flask" width="70px" src="Media/Flask.png"></td><td><img title="Python Dash" alt="Python Dash" width="70px" src="Media/Dash.png"></td><td><img title="Hibernate" alt="Hibernate" width="70px" src="Media/Hibernate.png"></td><td><img title="SLF4J" alt="SLF4J" width="70px" src="Media/slf4j.png"></td><td><img title="Angular" alt="Angular" width="70px" src="Media/Angular.png"></td>
+<td><img title="Java Executors" alt="Java Executors" width="70px" src="Media/Executors.jpg"></td><td><img title="SpringBoot" alt="SpringBoot" width="70px" src="Media/Springboot.png"></td><td><img title="Spring Security" alt="SpringSecurity" width="70px" src="Media/SpringSecurity.png"></td><td><img title="Java Executors" alt="Java Executors" width="70px" src="Media/Executors.jpg"></td><td><img title="Docker" alt="Docker" width="70px" src="Media/docker.png"></td><td><img title="Flask" alt="Flask" width="70px" src="Media/Flask.png"></td><td><img title="Python Dash" alt="Python Dash" width="70px" src="Media/Dash.png"></td><td><img title="Hibernate" alt="Hibernate" width="70px" src="Media/Hibernate.png"></td><td><img title="SLF4J" alt="SLF4J" width="70px" src="Media/slf4j.png"></td><td><img title="Angular" alt="Angular" width="70px" src="Media/Angular.png"></td>
 </tr><tr>
-<td><img title="SJR 352 Spring Batch" alt="SJR 352 Spring Batch" width="70px" src="Media/Spring Batch.jpg"></td><img title="OAuth" alt="OAuth" width="70px" src="Media/OAuth2.0.png">
+<td><img title="SJR 352 Spring Batch" alt="SJR 352 Spring Batch" width="70px" src="Media/Spring Batch.jpg"></td><td><img title="OAuth" alt="OAuth" width="70px" src="Media/OAuth2.0.png"></td>
 </tr> </table>
 
 **Cloud**
 
 <table style="border: 1px solid black;"> 
 <tr> 
-<td><img title="Amazon S3" alt="Amazon S3" width="70px" src="Media/AmazonS3.png"></td><td><img title="Heroku" alt="Heroku" width="70px" src="Media/Heroku.png"></td><td><img title="Spring Cloud" alt="SpringCloud" width="70px" src="Media/springCloud.png"></td><td><img title="Pivotal Cloud Foundry" alt="PCF" width="70px" src="Media/pcf.png"></td>
-<td> <img title="" alt="SpringCloud" width="70px" src="Media/springCloud.png"></td>
+<td><img title="Amazon S3" alt="Amazon S3" width="70px" src="Media/AmazonS3.png"></td><td><img title="Heroku" alt="Heroku" width="70px" src="Media/Heroku.png"></td><td><img title="Pivotal Cloud Foundry" alt="PCF" width="70px" src="Media/pcf.png"></td>
+<td> <img title="Spring Cloud" alt="SpringCloud" width="70px" src="Media/springCloud.png"></td>
 <td> <img title="Hystrix" alt="Hystrix" width="70px" src="Media/Hystrix.png"></td>
 <td> <img title="Resilience4J" alt="Resilience4J" width="70px" src="Media/Resilience.png"></td>
 </tr> 
