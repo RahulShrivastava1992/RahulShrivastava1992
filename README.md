@@ -2,7 +2,7 @@
 <h1>Hi There, I'm Rahul Srivastava <img  src="Media/highfive.gif" width="30px"></h1>
 
 I'm a **Microservices Developer** working at [Deloitte](https://www2.deloitte.com/in/en.html). I am responsible for development of Microsrvices API in Java, FAST API implementation and Python Dashboard development using python Dashboarding tool [Dash] (https://plotly.com/dash/) by Plotly.
-
+[![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=RahulShrivastava1992&theme=tokyonight)](https://github.com/RahulShrivastava1992/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulShrivastava1992&layout=compact)](https://github.com/RahulShrivastava1992/github-readme-stats)
 ## Skill Set :muscle:
 
 These are some of the major technologies that I use or have worked on in the past:
