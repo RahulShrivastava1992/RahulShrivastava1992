@@ -1,5 +1,5 @@
 
-<h1>Hi There, I'm Rahul Srivastava <img  src="Media/highfive.gif" width="30px"></h1>
+<h1>Hi There, I'm Rahul Srivastava <img  src="Media/hello-there.gif" width="30px"></h1>
 
 I'm a **Microservices Developer** working at [Deloitte](https://www2.deloitte.com/in/en.html). I am responsible for development of Microsrvices API in Java, FAST API implementation and Python Dashboard development using python Dashboarding tool [Dash] (https://plotly.com/dash/) by Plotly.<br>
 Here is my complete resume if you wish to download https://drive.google.com/file/d/1HG6EwFTT0mmUSXnJIBh0stBquT7HsxAm/view?usp=sharing
