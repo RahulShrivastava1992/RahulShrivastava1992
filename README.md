@@ -1,7 +1,7 @@
 
 <h1><img  src="Media/hello-there.gif" width="30px"> Hi There, I'm Rahul Srivastava </h1>
 
-I'm a **Microservices Developer** working at [Deloitte](https://www2.deloitte.com/in/en.html). I am responsible for development of Microservices API in Java, FAST API implementation and Python Dashboard development using python Dashboarding tool [Dash] (https://plotly.com/dash/) by Plotly.<br>
+I'm a **Microservices Developer** working at [Visa](https://www.visa.co.in). I am responsible for development of Microservices API in Java, FAST API implementation and Python Dashboard development using python Dashboarding tool [Dash] (https://plotly.com/dash/) by Plotly.<br>
 Here is my complete resume if you wish to download https://drive.google.com/file/d/1HG6EwFTT0mmUSXnJIBh0stBquT7HsxAm/view?usp=sharing
 
 [![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=RahulShrivastava1992&theme=tokyonight)](https://github.com/RahulShrivastava1992/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulShrivastava1992&layout=compact)](https://github.com/RahulShrivastava1992/github-readme-stats)
